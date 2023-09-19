@@ -68,7 +68,7 @@ namespace SLC_AS_MDRTestScript_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello again");
+			engine.GenerateInformation("Hello again...");
 		}
 	}
 }
